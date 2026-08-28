@@ -47,11 +47,11 @@
 |---|---|---|
 | **[For Her – Women Safety App](https://github.com/tamojitalwaysghosh/For-Her-women-safety-app-)** | Mobile app providing safety features for women traveling alone, including alert/emergency-contact functionality | Flutter, Dart |
 | **[MediHelp](https://github.com/tamojitalwaysghosh/MediHelp)** | AI-powered medical records manager — OCR + Gemini API to digitize and summarize lab reports, with medication tracking and offline-first SQLite storage | Flutter, Gemini API, OCR, SQLite |
-| **EchoMesh** | Offline peer-to-peer messaging app using BLE and the GATT protocol, with dual-role advertising/scanning and multi-hop mesh relaying — zero reliance on internet or Wi-Fi | Flutter, Dart, BLE/GATT |
+| **[EchoMesh](https://github.com/tamojitalwaysghosh/EchoMesh)** | Offline peer-to-peer messaging app using BLE and the GATT protocol, with dual-role advertising/scanning and multi-hop mesh relaying — zero reliance on internet or Wi-Fi | Flutter, Dart, BLE/GATT |
 | **[MyMeds](https://github.com/tamojitalwaysghosh/MyMeds)** | Medication tracking app | Flutter, Dart |
 | **[Portfolio](https://tamojitalwaysghosh.github.io/)** | Personal portfolio site | HTML/CSS |
 
-*EchoMesh and a few other RhobustDev apps live in private/local repos — ask me if you'd like a walkthrough.*
+*many of my apps live in private/local repos — ask me if you'd like a walkthrough.*
 
 ---
 
